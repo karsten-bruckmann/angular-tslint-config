@@ -5,7 +5,7 @@ The ruleset includes the recommended Angular code-style rules and additional rul
 
 ## Installation
 ```sh
-npm install git@github.com:vvarlon/angular-tslint-config.git --save-dev
+npm install git+https://github.com/vvarlon/angular-tslint-config.git --save-dev
 ```
 
 ## Setup
