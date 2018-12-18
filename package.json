@@ -1,0 +1,24 @@
+{
+  "name": "angular-tslint-config",
+  "version": "1.0.0",
+  "description": "TSLint config for Angular TypeScript style",
+  "main": "tslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vvarlon/angular-tslint-config.git"
+  },
+  "author": "Marlon Haensdieke",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "codelyzer": "~4.5.0",
+    "tslint": "~5.11.0"
+  },
+  "dependencies": {
+    "prettier": "^1.15.3",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-plugin-prettier": "^2.0.1"
+  }
+}
