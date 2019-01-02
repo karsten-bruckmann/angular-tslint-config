@@ -102,6 +102,7 @@ module.exports = {
         'use-life-cycle-interface': true,
         'use-pipe-transform-interface': true,
         'component-class-suffix': true,
-        'directive-class-suffix': true
+        'directive-class-suffix': true,
+        'ordered-imports': true
     }
 };
