@@ -3,6 +3,10 @@
 The setup uses *TSLint* and *codelyzer* for code-style checks and *prettier* for code-formatting.
 The ruleset includes the recommended Angular code-style rules and additional rules.
 
+**Note**: The following set of rules depend on:
+- TSLint v5.0.0
+- codelyzer v4.5.0
+
 ## Installation
 ```sh
 npm install git+https://github.com/vvarlon/angular-tslint-config.git --save-dev
