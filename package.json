@@ -11,7 +11,7 @@
   },
   "author": "Marlon Hänsdieke",
   "peerDependencies": {
-    "codelyzer": "^5.0.0",
+    "codelyzer": "^5.2.1",
     "tslint": "^5.16.0"
   },
   "dependencies": {
