@@ -18,5 +18,6 @@ module.exports = {
                 'trailingComma': 'es5'
             }
         ],
+        'no-inferrable-types': false
     }
 };
