@@ -22,6 +22,10 @@ module.exports = {
 
         // tslint-angular
         'no-inferrable-types': false,
+        'one-variable-per-declaration': [
+            true,
+            'ignore-for-loop'
+        ],
 
         // rxjs-tslint-rules
         'rxjs-finnish': {
