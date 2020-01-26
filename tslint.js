@@ -21,7 +21,11 @@ module.exports = {
         ],
 
         // tslint-angular
-        'no-inferrable-types': false,
+        'no-inferrable-types': [
+            true,
+            'ignore-params',
+            'ignore-properties'
+        ],
         'one-variable-per-declaration': [
             true,
             'ignore-for-loop'
