@@ -4,8 +4,8 @@ The setup uses *TSLint* and *codelyzer* for code-style checks and *prettier* for
 The ruleset includes the recommended Angular code-style rules and additional rules.
 
 **Note**: The following set of rules depend on:
-- TSLint v5.0.0
-- codelyzer v4.5.0
+- TSLint ^v5.0.0
+- codelyzer ^v4.5.0
 
 ## Installation
 ```sh
