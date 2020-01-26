@@ -1,6 +1,5 @@
 {
   "name": "angular-tslint-config",
-  "version": "1.0.0",
   "description": "TSLint config for Angular TypeScript style",
   "main": "tslint.js",
   "scripts": {
@@ -8,17 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:vvarlon/angular-tslint-config.git"
+    "url": "git@github.com:dev-marlon/angular-tslint-config.git"
   },
-  "author": "Marlon Haensdieke",
-  "license": "UNLICENSED",
+  "author": "Marlon Hänsdieke",
   "peerDependencies": {
-    "codelyzer": "~4.5.0",
-    "tslint": "~5.11.0"
+    "codelyzer": "^5.2.1",
+    "tslint": "^5.16.0"
   },
   "dependencies": {
-    "prettier": "^1.15.3",
-    "tslint-config-prettier": "^1.17.0",
-    "tslint-plugin-prettier": "^2.0.1"
+    "prettier": "^1.19.1",
+    "rxjs-tslint-rules": "^4.28.1",
+    "tslint-angular": "^3.0.2",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.1.0"
   }
 }
