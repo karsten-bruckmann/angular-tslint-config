@@ -10,9 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Use [tslint-angular](https://github.com/mgechev/tslint-angular) for rules which aligns with the
-[Angular style guide](https://angular.io/guide/styleguide) instead of adding relevant rules by ourself.
-- Updated dependency to prettier.
-- Updated dependencies to tslint.
+[Angular style guide](https://angular.io/guide/styleguide).
+- Update dependencies.
 
 ## [1.1.0] - 2019-02-22
 # Changes
