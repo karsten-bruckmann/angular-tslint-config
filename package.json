@@ -1,5 +1,6 @@
 {
   "name": "angular-tslint-config",
+  "version": "1.0.0",
   "description": "TSLint config for Angular TypeScript style",
   "main": "tslint.js",
   "scripts": {
