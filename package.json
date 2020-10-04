@@ -1,25 +1,25 @@
 {
-  "name": "angular-tslint-config",
-  "version": "1.0.0",
-  "description": "TSLint config for Angular TypeScript style",
-  "main": "tslint.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:dev-marlon/angular-tslint-config.git"
-  },
-  "author": "Marlon Hänsdieke",
-  "peerDependencies": {
-    "codelyzer": "^5.2.1",
-    "tslint": "^5.16.0"
-  },
-  "dependencies": {
-    "prettier": "^1.19.1",
-    "rxjs-tslint-rules": "^4.28.1",
-    "tslint-angular": "^3.0.2",
-    "tslint-config-prettier": "^1.18.0",
-    "tslint-plugin-prettier": "^2.1.0"
-  }
+    "name": "angular-tslint-config",
+    "version": "1.0.0",
+    "description": "TSLint config for Angular TypeScript style",
+    "main": "tslint.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:dev-marlon/angular-tslint-config.git"
+    },
+    "author": "Marlon Hänsdieke",
+    "peerDependencies": {
+        "codelyzer": "^6.0.0",
+        "tslint": "^5.16.0"
+    },
+    "dependencies": {
+        "prettier": "^1.19.1",
+        "rxjs-tslint-rules": "^4.28.1",
+        "tslint-angular": "^3.0.2",
+        "tslint-config-prettier": "^1.18.0",
+        "tslint-plugin-prettier": "^2.1.0"
+    }
 }
